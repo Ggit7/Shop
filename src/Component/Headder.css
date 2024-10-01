@@ -1,0 +1,42 @@
+
+.nav-item{
+    list-style: none;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav-item li{
+    margin:0px 20px;
+
+}
+.nav-item li a{
+    text-decoration: none;
+    color:antiquewhite
+}
+.nav-item li a:hover{
+    color:brown
+}
+.nav-manu{
+    list-style: none;
+    margin-top: 163px;
+
+}
+.nav-manu li{
+    margin-top: 20px;
+    
+}
+.nav-manu li a{
+    text-decoration: none;
+    color: rgb(65, 41, 4);
+}
+.nav-manu li a:hover{
+    color:rgb(90, 90, 11);
+}
+.nav-button{
+    cursor: pointer;
+}
+
+
+
+
+
